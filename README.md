@@ -1,5 +1,4 @@
-<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Deepak Kumar Chaudhary </h3>
-<h4 align="center">I’m interested in web development</h4>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Deepak Kumar Chaudhary </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/DKchaudhary99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DKchaudhary99" height="30" width="40" /></a>
